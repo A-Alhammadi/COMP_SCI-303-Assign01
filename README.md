@@ -14,4 +14,4 @@ Function 4 (Remove Fucntion): If option 3 (add) is selected, you will be asked f
 ![Modify](https://user-images.githubusercontent.com/113705421/192043263-a0b802a3-65d5-4b6c-bc86-41f82976a8e1.JPG)
 ![Add](https://user-images.githubusercontent.com/113705421/192043260-d7b6d2a5-0cb3-4abd-b9fb-545f191101b8.JPG)
 ![Remove](https://user-images.githubusercontent.com/113705421/192043265-cfb77555-a70a-4bc9-9b2a-584aaf2acb40.JPG)
-![invalid and exit](https://user-images.githubusercontent.com/113705421/192043261-27262dd2-cb1d-44c0-b7f5-de5840a0fb93.jpg)
+![Invalid entry and Exit](https://user-images.githubusercontent.com/113705421/192045794-cce510d5-dbef-4056-9137-3eccc81edb0e.JPG)
